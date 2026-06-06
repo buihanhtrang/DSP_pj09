@@ -10,5 +10,4 @@ build/
 *.log
 ~$*
 verify_tables.py
-*.tex
 *.docx
